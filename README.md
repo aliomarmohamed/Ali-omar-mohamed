@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate frontend developer from Egypt(react js,next js)& problem solver on leetcode</h3>
+<h3 align="center">A passionate frontend engineer from Egypt(react js,next js)& problem solver on leetcode</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliomarmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="aliomarmohamed" /> </p>
 
